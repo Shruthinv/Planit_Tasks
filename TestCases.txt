@@ -1,0 +1,10 @@
+1.	Verify clicking on logo taking to home page
+2.	Verify “Start Shopping” from home page 
+3.	Verify the customers can login
+4.	Verify if cart page loads
+5.	Verify if add to cart works while clicking “Buy” from product catalogue
+6.	Verify if customer can reach checkout 
+7.	Verify if empty cart works
+8.	Verify if update cart works (actions, quantity update etc.)
+9.	Verify if continue shopping from cart works
+10.	Verify if contact form works
